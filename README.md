@@ -1,22 +1,12 @@
-# HOW TO EXTRACT DATA FROM THE WEB, TO ANAYZE THEM
+# AN ANOMALY DETECTION METHODOLOGY IN INDUSTRIAL PROCESSES
 
-Data are becoming more and more important for almost any industry.
-The problem is that, often, we wuold like (or, we wuold need) to analyze data,
-but we don't have them.
+This article is derived from my bachelor’s thesis in Industrial Engineering titled “production data analysis with Data Science techniques”.
+My thesis comes from the real industrial world, so I could use real industrial data, creating a case study useful for my thesis. This case study resulted in an anomaly detection in insutrial processes.
 
-So, how do we do in such cases?
-
-One possibility is web scraping, which basically is a technique that allow us to 
-extract data from the web to store them, and then we can analyze them.
-
-In this project I've scraped the famous website ['worldometers'](https://www.worldometers.info)
-extraxting the population-for-countries data.
-
-Then, I've stored the scraped data in a CSV file and analyzed them in a Jupyter Notebook.
-
-I've also written an article on Medium on this topic. You can find it [here](https://medium.com/mlearning-ai/web-scraping-for-data-science-scrape-and-analyze-data-is-fast-and-easy-b5f02c40d2d1)
 
 ## The main ideas behind this project
 If you are not "a technician" or if you just want to understand the main concepts without reading the code, you can take a look at the PDF I created:
-- [here](https://github.com/federico-trotta/webscraping_population_data/blob/main/PDF/ITALIAN/Progetto%20Webscraping.pdf) you find the Italian version
-- [here](https://github.com/federico-trotta/webscraping_population_data/blob/main/PDF/ENGLISH/Webscraping%20project.pdf) you find the English version
+- [here](https://github.com/federico-trotta/Anomaly_detection_industrial_processes/blob/main/PDF/ITALIAN/Anomaly%20Detection%20nei%20Processi%20Industriali%20(tesi%20Laurea).pdf) you find the Italian version
+- [here](https://github.com/federico-trotta/Anomaly_detection_industrial_processes/blob/main/PDF/ENGLISH/Anomaly%20Detection%20in%20Industrial%20processes.pdf) you find the English version
+
+If you want a deeper understanding of the work I made, you can read the article I published for "Towards Data Science" [here](https://towardsdatascience.com/how-to-use-data-science-in-industrial-production-environments-6accf24afeb2).
